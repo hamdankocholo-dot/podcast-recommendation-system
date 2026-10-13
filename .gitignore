@@ -1,0 +1,11 @@
+# Compiled Java files
+bin/
+
+# Eclipse settings
+.settings/
+
+# macOS files
+.DS_Store
+
+# Java class files
+*.class
